@@ -1,0 +1,28 @@
+#headerDiv {
+  height: 200px; }
+
+header {
+  height: 250px;
+  width: 100%;
+  background-image: url("../../../assets/images/banner.jpg");
+  background-size: cover; }
+
+#headerDiv {
+  background-color: black;
+  height: 35px;
+  color: #006600;
+  text-align: center; }
+
+#nameHeader {
+  margin: 0;
+  page-break-inside: avoid; }
+
+.fractal {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center; }
+  .fractal .fractalCanvas {
+    order: 1; }
+
+/*# sourceMappingURL=home.css.map */
