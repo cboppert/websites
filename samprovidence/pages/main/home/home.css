@@ -13,10 +13,6 @@ header {
   color: #006600;
   text-align: center; }
 
-#nameHeader {
-  margin: 0;
-  page-break-inside: avoid; }
-
 .fractal {
   display: flex;
   flex-flow: column nowrap;
